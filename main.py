@@ -139,7 +139,6 @@ def average_expense():
 
             except ValueError:
                 continue
-
     if count == 0:
 
         print("No Expenses Found")
